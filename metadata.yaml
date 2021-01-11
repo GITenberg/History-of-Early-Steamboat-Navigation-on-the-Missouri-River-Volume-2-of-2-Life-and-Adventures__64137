@@ -1,5 +1,8 @@
 _repo: History-of-Early-Steamboat-Navigation-on-the-Missouri-River-Volume-2-of-2-Life-and-Adventures__64137
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64137-h/images/cover.jpg
 creator:
   author:
     agent_name: Chittenden, Hiram Martin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41527
     wikipedia: https://en.wikipedia.org/wiki/Hiram_M._Chittenden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64137#History-of-Early-Steamboat-Navigation-on-the-Missouri-River-Volume-2-of-2-Life-and-Adventures_
 gutenberg_issued: '2020-12-26'
 gutenberg_type: Text
 identifiers:
