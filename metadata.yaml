@@ -1,0 +1,29 @@
+_repo: History-of-Early-Steamboat-Navigation-on-the-Missouri-River-Volume-2-of-2-Life-and-Adventures__64137
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chittenden, Hiram Martin
+    alias: Chittenden, Hiram M. (Hiram Martin)
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '41527'
+    url: http://www.gutenberg.org/2009/agents/41527
+    wikipedia: https://en.wikipedia.org/wiki/Hiram_M._Chittenden
+description: ''
+gutenberg_issued: '2020-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missouri River -- History'
+- !lcsh 'Steam-navigation -- Missouri River'
+- !lcc 'F590.3'
+- !lcsh 'La Barge, Joseph, 1815-1899'
+- GITenberg
+title: "History of Early Steamboat Navigation on the Missouri River, Volume 2 (of\
+  \ 2)\r\nLife and Adventures of Joseph La Barge"
+url: http://www.gutenberg.org/ebooks/64137
